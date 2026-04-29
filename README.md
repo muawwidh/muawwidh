@@ -51,5 +51,5 @@ I build practical, real-world projects including AI chatbots, machine learning s
 
 ## Contact
 
-- LinkedIn: [linkedin.com/in/your-linkedin](https://www.linkedin.com/in/your-linkedin)
-- Email: [your.email@example.com](mailto:your.email@example.com)
+- LinkedIn: https://www.linkedin.com/in/muawwidh/
+- Email: muawwidh@gmail.com
