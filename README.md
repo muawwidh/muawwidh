@@ -33,19 +33,10 @@ I build practical, real-world projects including AI chatbots, machine learning s
 
 | Project | Description | Tech Stack |
 | --- | --- | --- |
-| [AI Chatbot](https://github.com/muawwidh/ai-chatbot) | A conversational assistant designed to answer questions and support real-world user workflows. | Python, AI, NLP |
-| [Machine Learning Project](https://github.com/muawwidh/machine-learning-project) | A practical ML project focused on data analysis, model training, and prediction. | Python, NumPy, Pandas, scikit-learn |
-| [3D Web Application](https://github.com/muawwidh/3d-web-application) | An interactive browser-based 3D experience built for smooth visual interaction. | JavaScript, Three.js |
-| [Software Development Project](https://github.com/muawwidh/software-development-project) | A structured application built with clean logic, maintainable code, and real use cases in mind. | C#, Java, Git |
-
----
-
-## GitHub Stats
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=muawwidh&show_icons=true&theme=default&hide_border=true" alt="Muawwidh's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muawwidh&layout=compact&theme=default&hide_border=true" alt="Muawwidh's top languages" />
-</p>
+| [Air Quality Prediction ML](https://github.com/muawwidh/air-quality-prediction-ml) | Predicts air quality patterns with a practical machine learning workflow for environmental data. | Python, NumPy, Pandas, scikit-learn |
+| [Image Classification](https://github.com/muawwidh/Image-classification) | Classifies images using machine learning techniques focused on visual recognition tasks. | Python, Machine Learning |
+| [Recommendation System](https://github.com/muawwidh/Recommendation-system) | Builds personalized recommendation logic for ranking and suggesting relevant items. | Python, ML Concepts |
+| [Leaning Tower 3D Three.js](https://github.com/muawwidh/leaning-tower-3d-threejs) | Creates an interactive 3D web experience using browser-based graphics. | JavaScript, Three.js |
 
 ---
 
